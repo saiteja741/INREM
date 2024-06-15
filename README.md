@@ -1,2 +1,0 @@
-# INREM
-MERN GIT
